@@ -1,3 +1,7 @@
+/*
+323858324
+shannya08@gmail.com
+ */
 #ifndef NODE_HPP
 #define NODE_HPP
 #include <vector>
