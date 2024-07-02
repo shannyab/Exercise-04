@@ -1,8 +1,9 @@
+/*
+323858324
+shannya08@gmail.com
+ */
 #define DOCTEST_CONFIG_IMPLEMENT
 #include "doctest.h"
-//orel55551234@gmail.com
-//orel nissan
-//322861527
 int main(int argc, char** argv) {
     const int numstop=5;
     doctest::Context context;
