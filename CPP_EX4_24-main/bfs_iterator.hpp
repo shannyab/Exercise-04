@@ -1,3 +1,7 @@
+/*
+323858324
+shannya08@gmail.com
+ */
 #ifndef BFS_ITERATOR_HPP
 #define BFS_ITERATOR_HPP
 #include <queue>
